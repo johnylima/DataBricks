@@ -3,10 +3,6 @@
 
 # COMMAND ----------
 
-### Comment 01 ###
-
-# COMMAND ----------
-
 # MAGIC %md In this activity, we will access Boston Safety data from the [Azure Open Datasets(https://azure.microsoft.com/en-us/services/open-datasets/catalog/boston-safety-data/#AzureDatabricks
 
 # COMMAND ----------
