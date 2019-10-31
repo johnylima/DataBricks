@@ -1,6 +1,9 @@
 # Databricks notebook source
 # MAGIC %md #Creating a notebook and viewing data Boston Saftety Data
-# MAGIC #Teste commit CI
+
+# COMMAND ----------
+
+### Comment 01 ###
 
 # COMMAND ----------
 
